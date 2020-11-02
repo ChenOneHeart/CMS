@@ -1,0 +1,35 @@
+/* 全局样式表 */
+html, body, #app {
+    height: 100%; /* 占满全屏 */
+    margin: 0;
+    padding: 0;
+}
+/* 面包屑导航 */
+.el-breadcrumb {
+    font-size: 15px;
+}
+/* 卡片 */
+.el-card {
+    margin-top: 15px;
+    box-shadow: 5px 10px 10px #777 !important; /* 增加权重 */
+}
+.el-table {
+    margin-top: 20px;
+}
+.el-pagination {
+    margin-top: 20px;
+}
+.el-tag {
+    margin-left: 10px;
+}
+.el-steps {
+  margin: 20px;
+}
+/* 步骤条的标题字体 */
+.el-step__title {
+    font-size: 14px;
+}
+/* 富文本编辑器的输入区 */
+.ql-editor {
+    min-height: 300px;
+}
