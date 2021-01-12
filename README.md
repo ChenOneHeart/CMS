@@ -1,7 +1,4 @@
-# CMS
-Vue电商后台管理系统（Vue+ElementUI+Axios）
-=======
-# vue_shop
+# Vue电商后台管理系统（Vue+ElementUI+Axios）
 
 ## Project setup
 ```
