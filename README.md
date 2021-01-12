@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CMS
 Vue电商后台管理系统（Vue+ElementUI+Axios）
 =======
@@ -23,7 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 2a58348 (第一次提交文件)
